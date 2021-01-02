@@ -25,10 +25,6 @@
 <img src="https://komarev.com/ghpvc/?username=fadinaadeolu" alt="hedythedev"/> 
 <a href="https://github.com/fadinaadeolu"><img src="https://img.shields.io/github/stars/fadinaadeolu?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
 
-#### ⚡ Pined Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fadinaadeolu&repo=DSEA&show_icons=true&theme=chartreuse-dark)](https://github.com/fadinaadeolu/DSEA)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fadinaadeolu&repo=optimization_model&show_icons=true&theme=chartreuse-dark)](https://github.com/fadinaadeolu/optimization_model)
-
 
 </details>
 <br/>
@@ -45,4 +41,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+#### ⚡ Pined Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fadinaadeolu&repo=DSEA&show_icons=true&theme=chartreuse-dark)](https://github.com/fadinaadeolu/DSEA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fadinaadeolu&repo=optimization_model&show_icons=true&theme=chartreuse-dark)](https://github.com/fadinaadeolu/optimization_model)
 -->
