@@ -25,7 +25,9 @@
 <img src="https://komarev.com/ghpvc/?username=fadinaadeolu" alt="hedythedev"/> 
 <a href="https://github.com/fadinaadeolu"><img src="https://img.shields.io/github/stars/fadinaadeolu?color=blue&style=flat-box&logo=github" alt="Github stars"/></a>
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fadinaadeolu&repo=DSEA&show_icons=true&theme=chartreuse-dark)](https://github.com/fadinaadeolu/DSEA)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fadinaadeolu&repo=optimization_model&show_icons=true&theme=chartreuse-dark)](https://github.com/fadinaadeolu/optimization_model)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fadinaadeolu&repo=66days_of_data&show_icons=true&theme=chartreuse-dark)](https://github.com/fadinaadeolu/66days_of_data)
 </details>
 <br/>
 <details>
