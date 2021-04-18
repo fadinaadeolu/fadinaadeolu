@@ -1,10 +1,7 @@
 ### Hi there!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Welcome to my GitHub profile 🥰
 -👨 + 💻 I’m Adeolu, a Physicist and Climate Economist by training and an explorer by heart, an aspiring full-stack data scientist.
 <br/>
--✨ I’m a self-taught programmer, data enthusiast, passionate to learn new things 
-<br/>
--🌱 I’m currently participating in 66 days of data. 
-<br/>
+-✨ I’m a self-taught programmer, data enthusiast, passionate to learn new things.
 -⚡ Fun Fact: Love reading and listening music.
 -👯 I’m looking to collaborate on data engineering projects and application of data science in the field of Finance, Economics (Energy), Life Science etc.
 
