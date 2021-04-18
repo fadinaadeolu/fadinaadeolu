@@ -2,7 +2,9 @@
 -👨 + 💻 I’m Adeolu, a Physicist and Climate Economist by training and an explorer by heart, an aspiring full-stack data scientist.
 <br/>
 -✨ I’m a self-taught programmer, data enthusiast, passionate to learn new things.
+
 -⚡ Fun Fact: Love reading and listening music.
+
 -👯 I’m looking to collaborate on data engineering projects and application of data science in the field of Finance, Economics (Energy), Life Science etc.
 
 <br/>
